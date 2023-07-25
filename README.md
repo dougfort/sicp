@@ -1,0 +1,2 @@
+# sicp
+Work through SICP
